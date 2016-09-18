@@ -10,7 +10,7 @@ after leaving the introduction screen the user is asked for a series of inputs w
 The inputs required depend on the randomly chosen story.
 
 Examples:
-![example1](https://octodex.github.com/images/yaktocat.png)
-![example2](https://octodex.github.com/images/yaktocat.png)
-![example3](https://octodex.github.com/images/yaktocat.png)
+![example1](https://github.com/Rasyan/Rasyan_ahmed-pset2/blob/master/doc/exmp1.png)
+![example2](https://github.com/Rasyan/Rasyan_ahmed-pset2/blob/master/doc/exmp2.png)
+![example3](https://github.com/Rasyan/Rasyan_ahmed-pset2/blob/master/doc/exmp3.png)
 
